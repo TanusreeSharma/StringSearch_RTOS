@@ -24,7 +24,6 @@
 #include "text.h"
 
 using namespace std;
-
 string input;//string to record data read from file
 MSG_Q_ID msgid; // unique id for Message Queue
 struct message
