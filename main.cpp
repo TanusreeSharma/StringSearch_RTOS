@@ -411,6 +411,6 @@ int main( void )
     
     displayInfo(msg, msgNum);
     
-    return 0;
+   return 0;
 }
 
